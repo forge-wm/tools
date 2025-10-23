@@ -1,2 +1,2 @@
 # tools
-Tooling for building the window manager and extensions, among other stuff.
+Tooling for building forge_wm and extensions for it, among other stuff.
